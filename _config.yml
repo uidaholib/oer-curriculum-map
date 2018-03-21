@@ -1,0 +1,18 @@
+# Jekyll Digital Collection Generator
+
+# Note: use environment variable on build command to include analytics
+# JEKYLL_ENV=production jekyll build
+
+# Site settings
+title: OER Curriculum Map
+tagline: open textbook alternatives for common courses
+description: "A more complete description that will appear in meta tags and other locations where appropriate" 
+keywords: university of idaho, open educational resources, OER, open textbooks
+email: ewilliamson@uidaho.edu
+
+# url variables
+url: https://uidaholib.github.io
+baseurl: /oer-curriculum-map
+
+# collection display variables 
+# see _data/metadata-fields.csv
