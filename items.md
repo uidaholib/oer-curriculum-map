@@ -3,30 +3,29 @@ layout: table
 title: Items
 permalink: /items/
 ---
-{% assign items = site.data.oer-curriculum-map.csv %}
+{% assign items = site.data.oer-curriculum-map %}
 
-<!-- currently downloaded version of datatables is bundled with bootstrap and responsive and csv download extensions -->
-## Browse Items
+## Browse OER Textbooks
 
-This table provides sorting and basic search of the archive contents. 
-Click on the "Read" link to see the full document.
+This table provides sorting and basic search of OER mapped to courses. 
+Click on the title to see the full document information.
 
-<table id="item-table">
+<table id="item-table" class="table table-striped table-bordered">
     <thead>
         <tr>
-            <th>Title</th>
-            <th>Date</th>
-            <th>Subjects</th>
-            <th>Description</th>
+            <th>Course</th>
+            <th>OER Title</th>
+            <th>Saves</th>
+            <th>Link</th>
         </tr>
     </thead>
     <tbody>
-{% for item in items %}        
+{% for item in items %}      
         <tr>
-            <td><a href="{{ site.baseurl }}/items/{{ item.identifier | downcase }}.html">{{ item.title }}</a></td>
-            <td>{{ item.date }}</td>
-            <td>{{ item.subjects }}</td>
-            <td>{{ item.description | truncatewords: 15 }} <a href="{{ site.baseurl }}/items/{{ item.identifier | downcase }}.html">Read</a></td>
+            <td>{{ item.course }}</td>
+            <td><a href="{{ site.baseurl }}/texts/?id={{ item.id | downcase }}">{{ item.opentext }}</a></td>
+            <td>{{ item.current-cost }}</td>
+            <td><a class="btn btn-primary" href="{{ item.link }}" target="_blank" role="button">Get OER &raquo;</a></td>
         </tr>
 {% endfor %}
     </tbody>
