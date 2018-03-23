@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: item
 title: Textbooks
-permalink: /texts/
+permalink: /browse/item.html
 ---
 
 <div id="test">item not found</div>

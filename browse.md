@@ -1,7 +1,7 @@
 ---
 layout: table
-title: Items
-permalink: /items/
+title: Browse
+permalink: /browse/
 ---
 {% assign items = site.data.oer-curriculum-map %}
 
@@ -23,7 +23,7 @@ Click on the title to see the full document information.
 {% for item in items %}      
         <tr>
             <td>{{ item.course }}</td>
-            <td><a href="{{ site.baseurl }}/texts/?id={{ item.id | downcase }}">{{ item.opentext }}</a></td>
+            <td><a href="{{ site.baseurl }}/browse/item.html?id={{ item.id | downcase }}">{{ item.opentext }}</a></td>
             <td>{{ item.current-cost }}</td>
             <td><a class="btn btn-primary" href="{{ item.link }}" target="_blank" role="button">Get OER &raquo;</a></td>
         </tr>
