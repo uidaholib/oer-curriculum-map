@@ -1,29 +1,30 @@
 ---
-layout: page
+layout: subjects
 title: Courses
 permalink: /courses/
 ---
 {%- assign courses = site.data.oer-curriculum-map | map: "course" | uniq -%}
 {% capture subjects %}{% for sub in courses %}{{ sub | split: " " | first }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
 {% assign subjects = subjects | split: ";" | uniq %}
-<!-- https://www.w3schools.com/howto/howto_js_filter_elements.asp -->
-## Browse Courses
 
-<div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Filter by subject
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <button class="dropdown-item active" type="button" onclick="filterSelection('all')">Show all</button>
-  {% for s in subjects %}
-    <button class="dropdown-item" type="button" onclick="filterSelection('{{ s }}')">{{ s }}</button>{% endfor %}
-  </div>
+<div class="row mb-3">
+<div class="col"><h2>Browse Courses</h2></div>
+    <div class="col"><div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle float-right" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Filter by subject
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <button class="dropdown-item filter active" type="button" id="all">Show all</button>
+        {% for s in subjects %}
+            <button class="dropdown-item filter" type="button" id="{{ s }}">{{ s }}</button>{% endfor %}
+        </div>
+    </div></div>
 </div>
 
 <div class="row justify-content-center" >
 {% for course in courses %}
 <!-- Button trigger modal -->
-<div class="col-md-4">
+<div class="col-md-4 course {{ course | split: " " | first }}">
     <div class="card" data-toggle="modal" data-target="#course{{ forloop.index }}">
         <div class="card-header" >{{ course }}</div>
         <div class="card-body">
