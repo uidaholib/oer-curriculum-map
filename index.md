@@ -14,11 +14,11 @@ title: Home
     <div class="row">
         <div class="col-md-4">
         <h2>Browse OER Textbooks</h2>
-        <p>View a searchable table of OER alternatives for GEM courses in Idaho. </p>
+        <p>View a searchable table of OER alternatives for GEM courses in Idaho. These open textbooks match GEM course content and are available for free to students. Most can be adapted by instructors to meet their teaching needs.</p>
         <p><a class="btn btn-secondary" href="{{ "/browse/" | absolute_url }}" role="button">Find OERs &raquo;</a></p>
         </div>
         <div class="col-md-4">
-        <h2>Gem Courses</h2>
+        <h2>GEM Courses</h2>
         <p>Idaho higher education institutions have agreed to a set of GEM (General Education Matriculation) courses that are universally accepted across the state. Browse the courses to see what each institution offers, and OER suggestions for each subject area.</p>
         <p><a class="btn btn-secondary" href="{{ "/courses/" | absolute_url }}" role="button">Browse courses &raquo;</a></p>
         </div>
