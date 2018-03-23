@@ -7,7 +7,7 @@ permalink: /browse/
 
 ## Browse OER Textbooks
 
-This table provides sorting and basic search of OER mapped to courses. 
+This table provides sorting and basic search of OER mapped to GEM courses. 
 Click on the title to see the full document information.
 
 <table id="item-table" class="table table-striped table-bordered">

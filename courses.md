@@ -8,7 +8,7 @@ permalink: /courses/
 {% assign subjects = subjects | split: ";" | uniq %}
 
 <div class="row mb-3">
-<div class="col"><h2>Browse Courses</h2></div>
+<div class="col"><h2>Browse GEM Courses</h2></div>
     <div class="col"><div class="dropdown">
         <button class="btn btn-secondary dropdown-toggle float-right" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Filter by subject
