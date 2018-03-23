@@ -6,7 +6,7 @@ title: Home
 <div class="jumbotron jumbotron-fluid" style="background:url('{{ "/assets/images/bookstack2.jpg" | relative_url }}') center/cover no-repeat;">
     <div class="container">
         <h1 class="display-3">OER in Idaho</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p>Connecting instructors with free and open teaching materials for common shared courses in Idaho--saving students money and lowering barriers to education.</p>
         <p><a class="btn btn-primary btn-lg" href="{{ "/about/" | absolute_url }}" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
