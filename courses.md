@@ -6,7 +6,7 @@ permalink: /courses/
 {%- assign courses = site.data.oer-curriculum-map | map: "course" | uniq -%}
 {% capture subjects %}{% for sub in courses %}{{ sub | split: " " | first }}{% unless forloop.last %};{% endunless %}{% endfor %}{% endcapture %}
 {% assign subjects = subjects | split: ";" | uniq %}
-
+<!-- https://www.w3schools.com/howto/howto_js_filter_elements.asp -->
 ## Browse Courses
 
 <div class="dropdown">
@@ -14,8 +14,9 @@ permalink: /courses/
     Filter by subject
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <button class="dropdown-item active" type="button" onclick="filterSelection('all')">Show all</button>
   {% for s in subjects %}
-    <a class="dropdown-item" href="#">{{ s }}</a>{% endfor %}
+    <button class="dropdown-item" type="button" onclick="filterSelection('{{ s }}')">{{ s }}</button>{% endfor %}
   </div>
 </div>
 
