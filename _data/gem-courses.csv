@@ -1,0 +1,907 @@
+category,institution,course-code,course-title
+Written Communication,Boise State University,ENGL101,Intro to College Writing
+Written Communication,Boise State University,ENGL102,College Writing & Research
+Written Communication,College of Eastern Idaho,ENG101,English Composition
+Written Communication,College of Eastern Idaho,ENG102,Critical Reading and Writing
+Written Communication,College of Southern Idaho,ENGL101,English Composition 1
+Written Communication,College of Southern Idaho,ENGL102,English Composition 2
+Written Communication,College of Western Idaho,ENGL101,English Composition 1
+Written Communication,College of Western Idaho,ENGL101P,English Composition 1
+Written Communication,College of Western Idaho,ENGL102,English Composition 2
+Written Communication,Idaho State University,ENGL1101,English Composition
+Written Communication,Idaho State University,ENGL1101P,English Composition Plus
+Written Communication,Idaho State University,ENGL1102,Critical Reading and Writing
+Written Communication,Idaho State University,HONS1101,Honors Humanities I
+Written Communication,Lewis-Clark State College,ENGL101,College Writing
+Written Communication,Lewis-Clark State College,ENGL102,Research Writing
+Written Communication,Lewis-Clark State College,ENGL109,College Writing & Research
+Written Communication,North Idaho College,ENGL101,English Composition
+Written Communication,North Idaho College,ENGL101P,English Composition
+Written Communication,North Idaho College,ENGL102,English Composition
+Written Communication,University of Idaho,ENGL101,Introduction to College Writing
+Written Communication,University of Idaho,ENGL102,College Writing & Rhetoric
+Oral Communication,Boise State University,ANTH314,Environmental Anthropology
+Oral Communication,Boise State University,ART298,Seminar
+Oral Communication,Boise State University,BAS310,Comm in the Applied Sciences
+Oral Communication,Boise State University,BIOL306,Comm in Biological Sciences
+Oral Communication,Boise State University,BIOL323,Ecology
+Oral Communication,Boise State University,BUSCOM201,Business Communication
+Oral Communication,Boise State University,CE321,Prin of Envr Engineering Lab
+Oral Communication,Boise State University,CE341,Construction Materials Lab
+Oral Communication,Boise State University,CE481,Senior Design Project I
+Oral Communication,Boise State University,CHEM323,Advanced Synthesis Laboratory
+Oral Communication,Boise State University,CJ425,Research Methods
+Oral Communication,Boise State University,CMGT201,Construction Communications
+Oral Communication,Boise State University,COMM101,Fundamentals of Comm
+Oral Communication,Boise State University,COMM112,Reasoned Discourse
+Oral Communication,Boise State University,COMM271,Introduction to Media
+Oral Communication,Boise State University,COMM304,Perspectives of Communication
+Oral Communication,Boise State University,CS230,Ethical Issues in Computing
+Oral Communication,Boise State University,ECE380,Electrical Engineering Practic
+Oral Communication,Boise State University,ECE380L,EE Practice Lab
+Oral Communication,Boise State University,ECON401,Research Project Seminar
+Oral Communication,Boise State University,ED-LLC346,Children's Literature
+Oral Communication,Boise State University,ED-LLC440,Content Language Arts K-8
+Oral Communication,Boise State University,ED-LLC444,Cont Literacy for Sec Students
+Oral Communication,Boise State University,ENGL275,Methods of Literary Studies
+Oral Communication,Boise State University,ENGL304,Argument
+Oral Communication,Boise State University,ENVSTD221,People and Nature
+Oral Communication,Boise State University,FRENCH303,Adv French Comp & Conversation
+Oral Communication,Boise State University,GEOS242,Comm in the Earth Sciences
+Oral Communication,Boise State University,GERMAN303,Advanced German Conv & Comp
+Oral Communication,Boise State University,GIMM290,Game Design Theory
+Oral Communication,Boise State University,HEP240,Health Education and Promotion
+Oral Communication,Boise State University,HIST220,The Historical Craft
+Oral Communication,Boise State University,HIST222,Intro to Study & Teaching Hist
+Oral Communication,Boise State University,HLTHST382,Research Methods in Health
+Oral Communication,Boise State University,KINES201,"Cultural, Historical & Philo"
+Oral Communication,Boise State University,MATH287,Comm in Mathematical Sciences
+Oral Communication,Boise State University,MDS300,Communicating Universally
+Oral Communication,Boise State University,ME310,Experimental Methods Lab
+Oral Communication,Boise State University,MSE415,Materials Processing
+Oral Communication,Boise State University,MUS202,Music Communications
+Oral Communication,Boise State University,NURS226,Essentials of Communication
+Oral Communication,Boise State University,NURS420,"Policy, Power, and Voice"
+Oral Communication,Boise State University,NURS-RN420,"Policy, Power, and Voice"
+Oral Communication,Boise State University,PHIL301,Puzzles and Paradoxes
+Oral Communication,Boise State University,PHYS301,Analog and Digital Electronics
+Oral Communication,Boise State University,POLS200,Introduction to Politics
+Oral Communication,Boise State University,POLS300,American Political Institution
+Oral Communication,Boise State University,POLS305,Comparative Politics: Theories
+Oral Communication,Boise State University,POLS315,Political Philosophy
+Oral Communication,Boise State University,PSYC321,Research Methods
+Oral Communication,Boise State University,RADSCI340,Radiologic Quality Assurance
+Oral Communication,Boise State University,RADSCI462,Obstetrics/GYN Sonography
+Oral Communication,Boise State University,RESPCARE355,Pro Comm in Health Care
+Oral Communication,Boise State University,SOC201,Theories of Society
+Oral Communication,Boise State University,SOC305,Racial and Cultural Minorities
+Oral Communication,Boise State University,SOCWRK333,Generalist Social Work Pract I
+Oral Communication,Boise State University,SPANISH300,Spanish for Bilinguals
+Oral Communication,Boise State University,SPANISH301,Conversational Spanish
+Oral Communication,Boise State University,SPS300,Communication in Public Sphere
+Oral Communication,Boise State University,THEA230,Devel of Theatre I: Classical
+Oral Communication,College of Eastern Idaho,COM101,Fundamentals of Speech
+Oral Communication,College of Southern Idaho,COMM101,Fundamentals of Oral Communication
+Oral Communication,College of Southern Idaho,COMM209,Critical Thinking & Argumentation
+Oral Communication,College of Western Idaho,COMM100,Communication Matters
+Oral Communication,College of Western Idaho,COMM101,Introduction to Communication
+Oral Communication,College of Western Idaho,COMM112,Argumentation and Debate
+Oral Communication,Idaho State University,COMM1101,Principles of Speech
+Oral Communication,Lewis-Clark State College,COMM101,Principles of Speech
+Oral Communication,Lewis-Clark State College,COMM202,Interpersonal Comm
+Oral Communication,Lewis-Clark State College,COMM203,Sm Group Communication
+Oral Communication,Lewis-Clark State College,COMM204,Public Speaking
+Oral Communication,North Idaho College,COMM101,Intro to Speech Communication
+Oral Communication,University of Idaho,COMM101,Fundamntls Public Speaking
+Oral Communication,University of Idaho,ENGL313,Business Writing
+Oral Communication,University of Idaho,ENGL317,Technical Writing
+Oral Communication,University of Idaho,PHIL102,Reason and Rhetoric
+Mathematical Ways of Knowing,Boise State University,MATH123,Quantitative Reasoning
+Mathematical Ways of Knowing,Boise State University,MATH143,College Algebra
+Mathematical Ways of Knowing,Boise State University,MATH160,Survey of Calculus
+Mathematical Ways of Knowing,Boise State University,MATH170,Calculus I: Concepts & App
+Mathematical Ways of Knowing,Boise State University,MATH171,Calculus I: Theory and App
+Mathematical Ways of Knowing,Boise State University,MATH254,Introduction to Statistics
+Mathematical Ways of Knowing,Boise State University,MATH257,"Geometry, Measure for Teachers"
+Mathematical Ways of Knowing,College of Eastern Idaho,MAT123,Mathematics in Modern Society
+Mathematical Ways of Knowing,College of Eastern Idaho,MAT143,College Algebra
+Mathematical Ways of Knowing,College of Eastern Idaho,MAT160,Brief Calculus
+Mathematical Ways of Knowing,College of Eastern Idaho,MAT253,Elementary Statistics
+Mathematical Ways of Knowing,College of Southern Idaho,MATH123,Math in Modern Society
+Mathematical Ways of Knowing,College of Southern Idaho,MATH130,Finite Mathematics
+Mathematical Ways of Knowing,College of Southern Idaho,MATH143,College Algebra
+Mathematical Ways of Knowing,College of Southern Idaho,MATH147,Precalculus
+Mathematical Ways of Knowing,College of Southern Idaho,MATH153,Elementary Statistics
+Mathematical Ways of Knowing,College of Southern Idaho,MATH160,Brief Calculus
+Mathematical Ways of Knowing,College of Southern Idaho,MATH170,Calculus 1
+Mathematical Ways of Knowing,College of Western Idaho,FINA109,Personal Finance & Business Math
+Mathematical Ways of Knowing,College of Western Idaho,MATH123,Math in Modern Society
+Mathematical Ways of Knowing,College of Western Idaho,MATH123P,Math in Modern Society
+Mathematical Ways of Knowing,College of Western Idaho,MATH130,Finite Math
+Mathematical Ways of Knowing,College of Western Idaho,MATH143,College Algebra
+Mathematical Ways of Knowing,College of Western Idaho,MATH143P,College Algebra
+Mathematical Ways of Knowing,College of Western Idaho,MATH147,Precalculus
+Mathematical Ways of Knowing,College of Western Idaho,MATH153,Elementary Statistics
+Mathematical Ways of Knowing,College of Western Idaho,MATH153P,Elementary Statistics
+Mathematical Ways of Knowing,College of Western Idaho,MATH160,Brief Calculus
+Mathematical Ways of Knowing,College of Western Idaho,MATH170,Calculus 1
+Mathematical Ways of Knowing,College of Western Idaho,MATH257,Math for Elementary Teachers 2
+Mathematical Ways of Knowing,Idaho State University,MATH1123,Math in Modern Society
+Mathematical Ways of Knowing,Idaho State University,MATH1127,The Language of Mathematics
+Mathematical Ways of Knowing,Idaho State University,MATH1130,Finite Math
+Mathematical Ways of Knowing,Idaho State University,MATH1153,Intro to Statistics
+Mathematical Ways of Knowing,Idaho State University,MATH1160,Applied Calculus
+Mathematical Ways of Knowing,Idaho State University,MATH1170,Calculus I
+Mathematical Ways of Knowing,Idaho State University,MATH2256,Arithmetic for Teachers
+Mathematical Ways of Knowing,Idaho State University,MATH2257,Math for Elementary Teachers 2
+Mathematical Ways of Knowing,Idaho State University,MGT2216,Business Statistics
+Mathematical Ways of Knowing,Idaho State University,RCET1372,Calc for Advanced Electronics
+Mathematical Ways of Knowing,Idaho State University,TGE1140,Survey of Applied Math
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH123,Math as a Liberal Art
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH130,Finite Mathematics
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH147,Precalculus
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH147A,Precalculus Algebra
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH147B,Precalculus Trig
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH170,Calculus I
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH253,Statistical Methods
+Mathematical Ways of Knowing,Lewis-Clark State College,MATH257,Math Elem Sch Teach II
+Mathematical Ways of Knowing,Lewis-Clark State College,MTHPT130,Math for Business Analysis
+Mathematical Ways of Knowing,Lewis-Clark State College,MTHPT137,Math for Technology
+Mathematical Ways of Knowing,North Idaho College,MATH123,Contemporary Mathematics
+Mathematical Ways of Knowing,North Idaho College,MATH130,Finite Mathematics
+Mathematical Ways of Knowing,North Idaho College,MATH143,College Algebra
+Mathematical Ways of Knowing,North Idaho College,MATH147,Pre-Calculus
+Mathematical Ways of Knowing,North Idaho College,MATH160,Survey of Calculus
+Mathematical Ways of Knowing,North Idaho College,MATH170,Analytic Geometry and Calculus I
+Mathematical Ways of Knowing,North Idaho College,MATH253,Principles of Applied Statistics
+Mathematical Ways of Knowing,University of Idaho,CS112,Computational Thinking
+Mathematical Ways of Knowing,University of Idaho,MATH123,Math Applied/Modern World
+Mathematical Ways of Knowing,University of Idaho,MATH130,Finite Math
+Mathematical Ways of Knowing,University of Idaho,MATH143,Pre-calculus Alg/Analytic Geom
+Mathematical Ways of Knowing,University of Idaho,MATH160,Survey of Calculus
+Mathematical Ways of Knowing,University of Idaho,MATH170,Analytic Geometry/Calculus I
+Mathematical Ways of Knowing,University of Idaho,MATH175,Analytic Geometry/Calculus II
+Mathematical Ways of Knowing,University of Idaho,MATH275,Analytic Geometry/Calculus III
+Mathematical Ways of Knowing,University of Idaho,STAT251,Statistical Methods
+Scientific Ways of Knowing,Boise State University,ANTH101,Biological Anthropology
+Scientific Ways of Knowing,Boise State University,ANTH101L,Biological Anthropology Lab
+Scientific Ways of Knowing,Boise State University,ANTH103,Introduction to Archaeology
+Scientific Ways of Knowing,Boise State University,ANTH105,Evolution and Human Behavior
+Scientific Ways of Knowing,Boise State University,BIOL100,Concepts of Biology
+Scientific Ways of Knowing,Boise State University,BIOL107,Introduction to Human Biology
+Scientific Ways of Knowing,Boise State University,BIOL191,Biology I: Cell and Molecular
+Scientific Ways of Knowing,Boise State University,BIOL227,Human Anatomy and Physiology I
+Scientific Ways of Knowing,Boise State University,CHEM100,Concepts of Chemistry
+Scientific Ways of Knowing,Boise State University,CHEM101,Essentials of Chemistry I
+Scientific Ways of Knowing,Boise State University,CHEM101L,Essentials of Chemistry I Lab
+Scientific Ways of Knowing,Boise State University,CHEM111,General Chemistry I
+Scientific Ways of Knowing,Boise State University,CHEM111L,General Chemistry I Laboratory
+Scientific Ways of Knowing,Boise State University,ENGR100,Energy for Society
+Scientific Ways of Knowing,Boise State University,ENGR100L,Energy for Society Lab
+Scientific Ways of Knowing,Boise State University,ENGR120,Introduction to Engineering
+Scientific Ways of Knowing,Boise State University,ENGR130,Problem Solving with Computers
+Scientific Ways of Knowing,Boise State University,ENVSTD121,Intro to Environmental Studies
+Scientific Ways of Knowing,Boise State University,GEOS100,Fundamentals of Geology
+Scientific Ways of Knowing,Boise State University,GEOS101,Global Environmental Science
+Scientific Ways of Knowing,Boise State University,GEOS102,Historical Geology
+Scientific Ways of Knowing,Boise State University,PHYS101,Intro to Physics
+Scientific Ways of Knowing,Boise State University,PHYS104,Life in the Universe
+Scientific Ways of Knowing,Boise State University,PHYS105,Stars and Cosmology
+Scientific Ways of Knowing,Boise State University,PHYS111,General Physics I
+Scientific Ways of Knowing,Boise State University,PHYS112,General Physics II
+Scientific Ways of Knowing,Boise State University,PHYS211,Physics I with Calculus
+Scientific Ways of Knowing,Boise State University,PHYS212,Physics II with Calculus
+Scientific Ways of Knowing,Boise State University,PHYS212L,Physics II with Calculus Lab
+Scientific Ways of Knowing,College of Eastern Idaho,BIO100,Concepts of Biology
+Scientific Ways of Knowing,College of Eastern Idaho,BIO120,Environmental Science
+Scientific Ways of Knowing,College of Eastern Idaho,BIO227,Human Anatomy & Physiology I
+Scientific Ways of Knowing,College of Eastern Idaho,BIO227L,Human Anatomy & Physiology I Lab
+Scientific Ways of Knowing,College of Eastern Idaho,BIO228,Human Anatomy & Physiology II
+Scientific Ways of Knowing,College of Eastern Idaho,BIO228L,Human Anatomy & Physiology II Lab
+Scientific Ways of Knowing,College of Eastern Idaho,BIO250,General Microbiology
+Scientific Ways of Knowing,College of Eastern Idaho,BIO250L,General Microbiology Lab
+Scientific Ways of Knowing,College of Eastern Idaho,CHE100,Chemistry in Everyday Life
+Scientific Ways of Knowing,College of Eastern Idaho,CHE101,Essentials of General Chemistry
+Scientific Ways of Knowing,College of Eastern Idaho,CHE101L,Essentials of General Chemistry Laboratory
+Scientific Ways of Knowing,College of Eastern Idaho,GEO101,Physical Geology
+Scientific Ways of Knowing,College of Eastern Idaho,GEO101L,Physical Geology Lab
+Scientific Ways of Knowing,College of Eastern Idaho,PHY101,Introduction to Physics
+Scientific Ways of Knowing,College of Eastern Idaho,PHY101L,Introduction to Physics Lab
+Scientific Ways of Knowing,College of Eastern Idaho,PHY112,Physics 2
+Scientific Ways of Knowing,College of Eastern Idaho,PHY112L,Physics 2 Lab
+Scientific Ways of Knowing,College of Southern Idaho,AGRI180,Food Systems Science
+Scientific Ways of Knowing,College of Southern Idaho,ALLH220,Fundamentals of Nutrition
+Scientific Ways of Knowing,College of Southern Idaho,BIOL100,Concepts of Biology
+Scientific Ways of Knowing,College of Southern Idaho,BIOL120,Environmental Science
+Scientific Ways of Knowing,College of Southern Idaho,BIOL201,Biology 1
+Scientific Ways of Knowing,College of Southern Idaho,BIOL221,Introductory Microbiology
+Scientific Ways of Knowing,College of Southern Idaho,BIOL227,Human Anatomy & Physiology 1
+Scientific Ways of Knowing,College of Southern Idaho,BIOL228,Human Anatomy & Physiology 2
+Scientific Ways of Knowing,College of Southern Idaho,CHEM100,Chemistry in Everday Life
+Scientific Ways of Knowing,College of Southern Idaho,CHEM101,Introduction to Chemistry
+Scientific Ways of Knowing,College of Southern Idaho,CHEM102,Essentials of Organic & Biochem
+Scientific Ways of Knowing,College of Southern Idaho,CHEM111,Principles of Chemistry 1
+Scientific Ways of Knowing,College of Southern Idaho,GEOG100,Physical Geography
+Scientific Ways of Knowing,College of Southern Idaho,GEOL101,Physical Geology
+Scientific Ways of Knowing,College of Southern Idaho,GEOL102,Historical Geology
+Scientific Ways of Knowing,College of Southern Idaho,GEOL104,Natural Disasters and Env Geology
+Scientific Ways of Knowing,College of Southern Idaho,PHYS100,Survey of Physics
+Scientific Ways of Knowing,College of Southern Idaho,PHYS101,Survey of Astronomy
+Scientific Ways of Knowing,College of Southern Idaho,PHYS111,General Physics 1
+Scientific Ways of Knowing,College of Southern Idaho,PHYS112,General Physics 2
+Scientific Ways of Knowing,College of Southern Idaho,PHYS211,Physics Scientists & Engineers 1
+Scientific Ways of Knowing,College of Western Idaho,AGRI109,Principles of Animal Science
+Scientific Ways of Knowing,College of Western Idaho,AGRI109L,Principles of Animal Science Lab
+Scientific Ways of Knowing,College of Western Idaho,ALLH220,Fundamentals of Nutrition
+Scientific Ways of Knowing,College of Western Idaho,ANAT100,Human Structure and Function
+Scientific Ways of Knowing,College of Western Idaho,ANAT100L,Human Structure and Function Lab
+Scientific Ways of Knowing,College of Western Idaho,ANAT211,Human Anatomy and Physiology 1
+Scientific Ways of Knowing,College of Western Idaho,ANAT211L,Human Anatomy and Physiology 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,BIOL100,Concepts of Biology
+Scientific Ways of Knowing,College of Western Idaho,BIOL100L,Concepts of Biology Lab
+Scientific Ways of Knowing,College of Western Idaho,BIOL105,Human Structure and Function
+Scientific Ways of Knowing,College of Western Idaho,BIOL105L,Human Structure and Function Laboratory
+Scientific Ways of Knowing,College of Western Idaho,BIOL111,Biology 1
+Scientific Ways of Knowing,College of Western Idaho,BIOL111L,Biology 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,BIOL120,Environmental Science
+Scientific Ways of Knowing,College of Western Idaho,BIOL120L,Environmental Science Lab
+Scientific Ways of Knowing,College of Western Idaho,BIOL201,Biology 1
+Scientific Ways of Knowing,College of Western Idaho,BIOL201L,Biology 1 Laboratory
+Scientific Ways of Knowing,College of Western Idaho,BIOL221,Introductory Microbiology
+Scientific Ways of Knowing,College of Western Idaho,BIOL221L,Introductory Microbiology Lab
+Scientific Ways of Knowing,College of Western Idaho,BIOL227,Human Anatomy and Physiology 1
+Scientific Ways of Knowing,College of Western Idaho,BIOL227L,Human Anat and Physiology 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,CHEM100,Chemistry in Everyday Life
+Scientific Ways of Knowing,College of Western Idaho,CHEM100L,Chemistry in Everyday Life Lab
+Scientific Ways of Knowing,College of Western Idaho,CHEM101,Introduction to Chemistry
+Scientific Ways of Knowing,College of Western Idaho,CHEM101L,Introduction to Chemistry Lab
+Scientific Ways of Knowing,College of Western Idaho,CHEM102,Essentials of Organic and Biochemistry
+Scientific Ways of Knowing,College of Western Idaho,CHEM102L,Essentials of Organic & Biochemistry Lab
+Scientific Ways of Knowing,College of Western Idaho,CHEM111,Principles of Chemistry 1
+Scientific Ways of Knowing,College of Western Idaho,CHEM111L,Principles of Chemistry 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,ENVI100,Environmental Science
+Scientific Ways of Knowing,College of Western Idaho,ENVI100L,Environmental Science Lab
+Scientific Ways of Knowing,College of Western Idaho,GEOG100,Physical Geography
+Scientific Ways of Knowing,College of Western Idaho,GEOG100L,Physical Geography Laboratory
+Scientific Ways of Knowing,College of Western Idaho,GEOG270,Global Climate Change
+Scientific Ways of Knowing,College of Western Idaho,GEOL101,Physical Geology
+Scientific Ways of Knowing,College of Western Idaho,GEOL101L,Physical Geology Lab
+Scientific Ways of Knowing,College of Western Idaho,GEOL102,Historical Geology
+Scientific Ways of Knowing,College of Western Idaho,GEOL102L,Historical Geology Lab
+Scientific Ways of Knowing,College of Western Idaho,GEOL104,Natural Disasters & Environmentl Geology
+Scientific Ways of Knowing,College of Western Idaho,GEOL104L,Natural Disastrs & Envrnmtnl Geology Lab
+Scientific Ways of Knowing,College of Western Idaho,GEOL105,Earth's Natural Resources
+Scientific Ways of Knowing,College of Western Idaho,HLTH220,Fundamentals of Nutrition
+Scientific Ways of Knowing,College of Western Idaho,MMBS111,Introductory Microbiology
+Scientific Ways of Knowing,College of Western Idaho,MMBS111L,Introductory Microbiology Lab
+Scientific Ways of Knowing,College of Western Idaho,PHYS100,Survey of Physics
+Scientific Ways of Knowing,College of Western Idaho,PHYS100L,Survey of Physics Lab
+Scientific Ways of Knowing,College of Western Idaho,PHYS101,Survey of Astronomy
+Scientific Ways of Knowing,College of Western Idaho,PHYS101L,Survey of Astronomy Lab
+Scientific Ways of Knowing,College of Western Idaho,PHYS111,General Physics 1
+Scientific Ways of Knowing,College of Western Idaho,PHYS111L,General Physics 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,PHYS211,Physics for Scientists and Engineers 1
+Scientific Ways of Knowing,College of Western Idaho,PHYS211L,Physics for Scientists & Engineers 1 Lab
+Scientific Ways of Knowing,College of Western Idaho,SCIE101,Foundations of Science
+Scientific Ways of Knowing,Idaho State University,BIOL1100,Concepts Biol Human Concerns
+Scientific Ways of Knowing,Idaho State University,BIOL1100L,Concepts Biol Human Conc Lab
+Scientific Ways of Knowing,Idaho State University,BIOL1101,Biology I
+Scientific Ways of Knowing,Idaho State University,BIOL1101L,Biology I Lab
+Scientific Ways of Knowing,Idaho State University,CHEM1100,Architecture of Matter
+Scientific Ways of Knowing,Idaho State University,CHEM1101,Intro to General Chemistry
+Scientific Ways of Knowing,Idaho State University,CHEM1102,Intro to Org and BioChem
+Scientific Ways of Knowing,Idaho State University,CHEM1103,Intro Gen Org BioChem Lab
+Scientific Ways of Knowing,Idaho State University,CHEM1111,General Chemistry I
+Scientific Ways of Knowing,Idaho State University,CHEM1111L,General Chemistry I Lab
+Scientific Ways of Knowing,Idaho State University,CHEM1112,General Chemistry II
+Scientific Ways of Knowing,Idaho State University,CHEM1112L,General Chemistry II Lab
+Scientific Ways of Knowing,Idaho State University,GEOL1100,The Dynamic Earth
+Scientific Ways of Knowing,Idaho State University,GEOL1100L,The Dynamic Earth Lab
+Scientific Ways of Knowing,Idaho State University,GEOL1101,Physical Geology
+Scientific Ways of Knowing,Idaho State University,GEOL1101L,Physical Geology Lab
+Scientific Ways of Knowing,Idaho State University,GEOL1110,Physical Geol Scientists Lab
+Scientific Ways of Knowing,Idaho State University,NTD2239,Nutrition
+Scientific Ways of Knowing,Idaho State University,PHYS1100,Essentials of Physics
+Scientific Ways of Knowing,Idaho State University,PHYS1101,Elements of Physics
+Scientific Ways of Knowing,Idaho State University,PHYS1101L,Elements of Physics I Lab
+Scientific Ways of Knowing,Idaho State University,PHYS1111,General Physics
+Scientific Ways of Knowing,Idaho State University,PHYS1112,General Physics II
+Scientific Ways of Knowing,Idaho State University,PHYS1113,General Physics I Lab
+Scientific Ways of Knowing,Idaho State University,PHYS1114,General Physics II Lab
+Scientific Ways of Knowing,Idaho State University,PHYS1152,Descriptive Astronomy
+Scientific Ways of Knowing,Idaho State University,PHYS1153,Descriptive Astronomy Lab
+Scientific Ways of Knowing,Idaho State University,PHYS2211,Engineering Physics
+Scientific Ways of Knowing,Idaho State University,PHYS2212,Engineering Physics
+Scientific Ways of Knowing,Idaho State University,PHYS2213,Engineering Physics I Lab
+Scientific Ways of Knowing,Idaho State University,PHYS2214,Engineering Physics II Lab
+Scientific Ways of Knowing,Lewis-Clark State College,BIOL102,Science for Life
+Scientific Ways of Knowing,Lewis-Clark State College,BIOL120,Plants and People
+Scientific Ways of Knowing,Lewis-Clark State College,BIOL175,Human Biology
+Scientific Ways of Knowing,Lewis-Clark State College,BIOL252,Anatomy/Physiology I
+Scientific Ways of Knowing,Lewis-Clark State College,CHEM102,Chemistry of Daily Life
+Scientific Ways of Knowing,Lewis-Clark State College,CHEM105,Gen Organic/Biochemistry
+Scientific Ways of Knowing,Lewis-Clark State College,CHEM111,Prin/Chemistry I
+Scientific Ways of Knowing,Lewis-Clark State College,CS108,Introduction to Computer Science
+Scientific Ways of Knowing,Lewis-Clark State College,FSCI101,Introduction to Forensic Science
+Scientific Ways of Knowing,Lewis-Clark State College,GEOL100,Environmtl Earth Sci
+Scientific Ways of Knowing,Lewis-Clark State College,GEOL120,Intro Earth Systems
+Scientific Ways of Knowing,Lewis-Clark State College,GIS271,Intro/Geog Info Sci
+Scientific Ways of Knowing,Lewis-Clark State College,NS150,Intro/Natural Sciences
+Scientific Ways of Knowing,Lewis-Clark State College,NS174,Natural Science for Elementary Educators
+Scientific Ways of Knowing,Lewis-Clark State College,PHYS111,General Physics I
+Scientific Ways of Knowing,Lewis-Clark State College,PHYS171,Physical Science for Elementary Educators
+Scientific Ways of Knowing,Lewis-Clark State College,PHYS205,Descriptive Astronomy
+Scientific Ways of Knowing,Lewis-Clark State College,PHYS211,Engineering Physics I
+Scientific Ways of Knowing,North Idaho College,BIOL100,Fundamentals of Biology
+Scientific Ways of Knowing,North Idaho College,BIOL115,Introduction to Life Sciences
+Scientific Ways of Knowing,North Idaho College,BIOL175,Human Biology
+Scientific Ways of Knowing,North Idaho College,BIOL202,General Zoology
+Scientific Ways of Knowing,North Idaho College,BIOL203,General Botany
+Scientific Ways of Knowing,North Idaho College,BIOL227,Human Anatomy & Physiology I with Cadaver
+Scientific Ways of Knowing,North Idaho College,BIOL241,Systematic Botany
+Scientific Ways of Knowing,North Idaho College,BIOL250,General Microbiology
+Scientific Ways of Knowing,North Idaho College,CHEM100,Concepts of Chemistry I
+Scientific Ways of Knowing,North Idaho College,CHEM101,Introduction to Essentials of General Chemistry I
+Scientific Ways of Knowing,North Idaho College,CHEM111,Principles of General College Chemistry I
+Scientific Ways of Knowing,North Idaho College,CHEM112,Principles of General College Chemistry II
+Scientific Ways of Knowing,North Idaho College,ENSI119,Introduction to Environmental Science
+Scientific Ways of Knowing,North Idaho College,GEOG100,Physical Geography
+Scientific Ways of Knowing,North Idaho College,GEOL101,Physical Geology
+Scientific Ways of Knowing,North Idaho College,GEOL102,Historical Geology
+Scientific Ways of Knowing,North Idaho College,GEOL123,Geology of Idaho and the Pacific Northwest
+Scientific Ways of Knowing,North Idaho College,PHYS101,Fundamentals of Physical Science
+Scientific Ways of Knowing,North Idaho College,PHYS103,Elementary Astronomy
+Scientific Ways of Knowing,North Idaho College,PHYS111,General Physics I
+Scientific Ways of Knowing,University of Idaho,BIOL102,Biology and Society
+Scientific Ways of Knowing,University of Idaho,BIOL102L,Biology and Society Lab
+Scientific Ways of Knowing,University of Idaho,BIOL114,Organisms and Environments
+Scientific Ways of Knowing,University of Idaho,BIOL115,Cells & the Evolution of Life
+Scientific Ways of Knowing,University of Idaho,BIOL115L,Cells & Evol of Life Lab
+Scientific Ways of Knowing,University of Idaho,BIOL154,Introductory Microbiology
+Scientific Ways of Knowing,University of Idaho,BIOL155,Introductory Microbiology Lab
+Scientific Ways of Knowing,University of Idaho,BIOL250,General Microbiology
+Scientific Ways of Knowing,University of Idaho,BIOL255,General Microbiology Lab
+Scientific Ways of Knowing,University of Idaho,CHEM101,Introduction to Chemistry I
+Scientific Ways of Knowing,University of Idaho,CHEM111,Principles of Chemistry I
+Scientific Ways of Knowing,University of Idaho,CHEM112,Principles of Chemistry II
+Scientific Ways of Knowing,University of Idaho,CORS215,Integ Sc:Color/Chem & Art
+Scientific Ways of Knowing,University of Idaho,CORS217,Integ Sc:Explor Solar System
+Scientific Ways of Knowing,University of Idaho,CORS219,Integ Sci:Human Nature
+Scientific Ways of Knowing,University of Idaho,CORS221,Integ Sci:Physics/Evrydy Life
+Scientific Ways of Knowing,University of Idaho,CORS227,Integ Sci:Ocean: Human Interac
+Scientific Ways of Knowing,University of Idaho,CORS228,Integ Sci:Ntl Hazards/Disastrs
+Scientific Ways of Knowing,University of Idaho,CORS229,Integ Sci:Nature of Islands
+Scientific Ways of Knowing,University of Idaho,CORS230,Integ Sci:Explor in Conv Biol
+Scientific Ways of Knowing,University of Idaho,CORS231,Integ Sci:Fish/Wlf Change Wrld
+Scientific Ways of Knowing,University of Idaho,CORS232,Science on Your Plate
+Scientific Ways of Knowing,University of Idaho,CORS233,How Humans Use Insects
+Scientific Ways of Knowing,University of Idaho,CORS234,Eng and Tech in the Mod World
+Scientific Ways of Knowing,University of Idaho,CORS235,Fire on Earth
+Scientific Ways of Knowing,University of Idaho,ENVS101,Intro Environmntl Sci
+Scientific Ways of Knowing,University of Idaho,ENVS102,Fld Activ/Environmtl Sci
+Scientific Ways of Knowing,University of Idaho,GEOG100,Physical Geography
+Scientific Ways of Knowing,University of Idaho,GEOG100L,Physical Geography Lab
+Scientific Ways of Knowing,University of Idaho,GEOL101,Physical Geology
+Scientific Ways of Knowing,University of Idaho,GEOL101L,Physical Geology Lab
+Scientific Ways of Knowing,University of Idaho,GEOL102,Historical Geology
+Scientific Ways of Knowing,University of Idaho,GEOL102L,Historical Geology Lab
+Scientific Ways of Knowing,University of Idaho,PHYS100,Fundamentals of Physics
+Scientific Ways of Knowing,University of Idaho,PHYS100L,Fundamentals of Physics Lab
+Scientific Ways of Knowing,University of Idaho,PHYS103,General Astronomy
+Scientific Ways of Knowing,University of Idaho,PHYS104,Astronomy Lab
+Scientific Ways of Knowing,University of Idaho,PHYS111,General Physics I
+Scientific Ways of Knowing,University of Idaho,PHYS111L,General Physics I Lab
+Scientific Ways of Knowing,University of Idaho,PHYS112,General Physics II
+Scientific Ways of Knowing,University of Idaho,PHYS112L,General Physics II Lab
+Scientific Ways of Knowing,University of Idaho,PHYS211,Engineering Physics I
+Scientific Ways of Knowing,University of Idaho,PHYS211L,Laboratory Physics I
+Scientific Ways of Knowing,University of Idaho,PHYS212,Engineering Physics II
+Scientific Ways of Knowing,University of Idaho,PHYS212L,Laboratory Physics II
+Scientific Ways of Knowing,University of Idaho,SOIL205,The Soil Ecosystem
+Scientific Ways of Knowing,University of Idaho,SOIL206,The Soil Ecosystem Lab
+Humanistic and Artistic Ways of Knowing,Boise State University,ARABIC102,Elementary Arabic II
+Humanistic and Artistic Ways of Knowing,Boise State University,ARABIC201,Intermediate Arabic I
+Humanistic and Artistic Ways of Knowing,Boise State University,ARABIC202,Intermediate Arabic II
+Humanistic and Artistic Ways of Knowing,Boise State University,ART100,Introduction to Art
+Humanistic and Artistic Ways of Knowing,Boise State University,ARTHIST101,Survey of Western Art I
+Humanistic and Artistic Ways of Knowing,Boise State University,ASL101,American Sign Language I
+Humanistic and Artistic Ways of Knowing,Boise State University,ASL102,American Sign Language II
+Humanistic and Artistic Ways of Knowing,Boise State University,ASL201,American Sign Language III
+Humanistic and Artistic Ways of Knowing,Boise State University,BASQUE101,Elementary Basque I
+Humanistic and Artistic Ways of Knowing,Boise State University,BASQUE102,Elementary Basque II
+Humanistic and Artistic Ways of Knowing,Boise State University,BASQUE201,Intermediate Basque I
+Humanistic and Artistic Ways of Knowing,Boise State University,BASQUE202,Intermediate Basque II
+Humanistic and Artistic Ways of Knowing,Boise State University,CHINESE101,Elem Mandarin Chinese I
+Humanistic and Artistic Ways of Knowing,Boise State University,CHINESE102,Elem Mandarin Chinese II
+Humanistic and Artistic Ways of Knowing,Boise State University,CHINESE202,Interm Mandarin Chinese II
+Humanistic and Artistic Ways of Knowing,Boise State University,ENGL110,Literature and Ideas
+Humanistic and Artistic Ways of Knowing,Boise State University,FRENCH101,Elementary French I
+Humanistic and Artistic Ways of Knowing,Boise State University,FRENCH102,Elementary French II
+Humanistic and Artistic Ways of Knowing,Boise State University,FRENCH201,Intermediate French I
+Humanistic and Artistic Ways of Knowing,Boise State University,FRENCH202,Intermediate French II
+Humanistic and Artistic Ways of Knowing,Boise State University,GERMAN101,Elementary German I
+Humanistic and Artistic Ways of Knowing,Boise State University,GERMAN102,Elementary German II
+Humanistic and Artistic Ways of Knowing,Boise State University,GERMAN201,Intermediate German I
+Humanistic and Artistic Ways of Knowing,Boise State University,HIST100,Themes in World History
+Humanistic and Artistic Ways of Knowing,Boise State University,HIST101,History of Western Civ I
+Humanistic and Artistic Ways of Knowing,Boise State University,HIST102,History of Western Civ II
+Humanistic and Artistic Ways of Knowing,Boise State University,HUM207,Intro to Humanities
+Humanistic and Artistic Ways of Knowing,Boise State University,JAPANESE101,Elementary Japanese I
+Humanistic and Artistic Ways of Knowing,Boise State University,JAPANESE102,Elementary Japanese II
+Humanistic and Artistic Ways of Knowing,Boise State University,JAPANESE201,Intermediate Japanese I
+Humanistic and Artistic Ways of Knowing,Boise State University,JAPANESE202,Intermediate Japanese II
+Humanistic and Artistic Ways of Knowing,Boise State University,KOREAN101,Elementary Korean I
+Humanistic and Artistic Ways of Knowing,Boise State University,KOREAN102,Elementary Korean II
+Humanistic and Artistic Ways of Knowing,Boise State University,KOREAN201,Intermediate Korean I
+Humanistic and Artistic Ways of Knowing,Boise State University,KOREAN202,Intermediate Korean II
+Humanistic and Artistic Ways of Knowing,Boise State University,LATIN211,Elementary Classical Latin
+Humanistic and Artistic Ways of Knowing,Boise State University,LATIN212,Advanced Classical Latin
+Humanistic and Artistic Ways of Knowing,Boise State University,MUS100,Introduction to Music
+Humanistic and Artistic Ways of Knowing,Boise State University,MUS102,Introduction to Jazz
+Humanistic and Artistic Ways of Knowing,Boise State University,PHIL101,Contemporary Issues
+Humanistic and Artistic Ways of Knowing,Boise State University,PHIL102,Great Thinkers
+Humanistic and Artistic Ways of Knowing,Boise State University,PHIL103,Moral Problems
+Humanistic and Artistic Ways of Knowing,Boise State University,PHIL209,Thinking Well: Intro to Logic
+Humanistic and Artistic Ways of Knowing,Boise State University,PORTUGUE101,Elementary Portuguese I
+Humanistic and Artistic Ways of Knowing,Boise State University,PORTUGUE102,Elementary Portuguese II
+Humanistic and Artistic Ways of Knowing,Boise State University,SPANISH101,Elementary Spanish I
+Humanistic and Artistic Ways of Knowing,Boise State University,SPANISH102,Elementary Spanish II
+Humanistic and Artistic Ways of Knowing,Boise State University,SPANISH201,Intermediate Spanish I
+Humanistic and Artistic Ways of Knowing,Boise State University,SPANISH202,Intermediate Spanish II
+Humanistic and Artistic Ways of Knowing,Boise State University,SPANISH203,Intermed Span Native Speakers
+Humanistic and Artistic Ways of Knowing,Boise State University,STEM-ED220,Perspectives
+Humanistic and Artistic Ways of Knowing,Boise State University,THEA101,Introduction to Theatre
+Humanistic and Artistic Ways of Knowing,Boise State University,THEA220,Cinema History and Aesthetics
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,Art101,Art History 1
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,ART102,Art History 2
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,ENG110,Introduction to Literature
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,ENG215,Survey of World Mythology
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,HUM101,Introduction to Humanities 1
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,HUM102,Introduction to Humanities 2
+Humanistic and Artistic Ways of Knowing,College of Eastern Idaho,PHI101,Introduction to Philosophy
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ARTS101,Art History 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ARTS102,Art History 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ARTS103,History & Photography Appreciation
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,DANC101,Dance Appreciation
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL126,Film & Literature
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL175,Introduction to Literature
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL215,Survey of World Mythology
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL257,Western World Literature 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL258,Western World Literature 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL267,Survey of English Literature 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL268,Survey of English Literature 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL277,Survey of American Literature 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,ENGL278,Survey of American Literature 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,FREN101,Elementary French 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,FREN102,Elementary French 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,HUMA101,Introduction to Humanities 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,HUMA102,Introduction to Humanities 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,JAPN101,Elementary Japanese 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,JAPN102,Elementary Japanese 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,MUSI100,Music Appreciation
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,MUSI108,Survey of Jazz and Pop Music
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,PHIL101,Introduction to Philosophy
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,PHIL202,Ethics
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,PORT101,Elementary Portuguese 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,PORT102,Elementary Portuguese 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SIGL101,American Sign Language 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SIGL102,American Sign Language 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SIGL201,American Sign Language 3
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SIGL202,American Sign Language 4
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SPAN101,Elementary Spanish 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SPAN102,Elementary Spanish 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SPAN201,Intermediate Spanish 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,SPAN202,Intermediate Spanish 2
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,THEA101,Theatre Appreciation
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,THEA201,Theatre History 1
+Humanistic and Artistic Ways of Knowing,College of Southern Idaho,THEA202,Theatre History 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ARTS101,Art History 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ARTS102,Art History 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ARTS105,Introduction to 2-D Art Foundations
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ARTS106,Intro to 3-D Art Foundations
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL175,Literature Appreciation
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL215,Survey of World Mythology
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL257,Survey of Western World Literature 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL258,Survey of Western World Literature 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL267,Survey of British Literature 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL268,Survey of British Literature 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL277,Survey of American Literature 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,ENGL278,Survey of American Literature 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,FREN101,Elementary French 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,FREN102,Elementary French 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,HIST101,Western Civilization 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,HIST102,Western Civilization 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,HUMA101,Introduction to Humanities 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,HUMA102,Introduction to Humanities 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,HUMA110,Introduction to Film Studies
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,MUSI100,Music Appreciation
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,MUSI108,Survey of Jazz and Pop Music
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,PHIL101,Introduction to Philosophy
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,PHIL202,Introduction to Ethics
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SIGL101,American Sign Language 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SIGL102,American Sign Language 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SIGL201,American Sign Language 3
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SIGL202,American Sign Language 4
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SPAN101,Elementary Spanish 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SPAN102,Elementary Spanish 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SPAN111,Spanish for Healthcare
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SPAN201,Intermediate Spanish 1
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,SPAN202,Intermediate Spanish 2
+Humanistic and Artistic Ways of Knowing,College of Western Idaho,THEA101,Theatre Appreciation
+Humanistic and Artistic Ways of Knowing,Idaho State University,ANTH1101,Elementary Shoshoni I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ANTH1102,Elementary Shoshoni II
+Humanistic and Artistic Ways of Knowing,Idaho State University,ARBC1101,Elementary Arabic I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ARBC1102,Elementary Arabic II
+Humanistic and Artistic Ways of Knowing,Idaho State University,ART1100,Survey of Art
+Humanistic and Artistic Ways of Knowing,Idaho State University,ART1101,History of Western Art I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ART1102,Drawing I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ART2210,Hist and Apprec of Photography
+Humanistic and Artistic Ways of Knowing,Idaho State University,CHNS1101,Elementary Chinese I (IGM)
+Humanistic and Artistic Ways of Knowing,Idaho State University,CHNS1102,Elementary Chinese II (IGM)
+Humanistic and Artistic Ways of Knowing,Idaho State University,CMP2250,History Appreciation Photo
+Humanistic and Artistic Ways of Knowing,Idaho State University,CSD1151,American Sign Lang I
+Humanistic and Artistic Ways of Knowing,Idaho State University,CSD1152,American Sign Lang II
+Humanistic and Artistic Ways of Knowing,Idaho State University,DANC1105,Survey of Dance
+Humanistic and Artistic Ways of Knowing,Idaho State University,DANC2205,Dance in the Modern Era
+Humanistic and Artistic Ways of Knowing,Idaho State University,ENGL1110,Intro to Literatrre
+Humanistic and Artistic Ways of Knowing,Idaho State University,ENGL1115,Major Themes in Literature
+Humanistic and Artistic Ways of Knowing,Idaho State University,ENGL1126,Art of Film I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ENGL2257,Survey of World Lit I
+Humanistic and Artistic Ways of Knowing,Idaho State University,ENGL2258,Survey of World Lit II
+Humanistic and Artistic Ways of Knowing,Idaho State University,FREN1101,Elementary French I
+Humanistic and Artistic Ways of Knowing,Idaho State University,FREN1102,Elementary French II
+Humanistic and Artistic Ways of Knowing,Idaho State University,GERM1101,Elementary German I
+Humanistic and Artistic Ways of Knowing,Idaho State University,GERM1102,Elementary German II
+Humanistic and Artistic Ways of Knowing,Idaho State University,HONS1102,Honors Humanities II
+Humanistic and Artistic Ways of Knowing,Idaho State University,JAPN1101,Elementary Japanese I
+Humanistic and Artistic Ways of Knowing,Idaho State University,JAPN1102,Elementary Japanese II
+Humanistic and Artistic Ways of Knowing,Idaho State University,LANG1101,Elementary Foreign Language I
+Humanistic and Artistic Ways of Knowing,Idaho State University,LANG1102,Elementary Foreign Language II
+Humanistic and Artistic Ways of Knowing,Idaho State University,LATN1101,Elementary Latin I
+Humanistic and Artistic Ways of Knowing,Idaho State University,LATN1102,Elementary Latin II
+Humanistic and Artistic Ways of Knowing,Idaho State University,MUSC1100,Introduction to Music
+Humanistic and Artistic Ways of Knowing,Idaho State University,MUSC1106,American Music
+Humanistic and Artistic Ways of Knowing,Idaho State University,MUSC1108,The World of Music
+Humanistic and Artistic Ways of Knowing,Idaho State University,MUSC1109,Survey of Jazz History
+Humanistic and Artistic Ways of Knowing,Idaho State University,PHIL1101,Intro to Philosophy
+Humanistic and Artistic Ways of Knowing,Idaho State University,PHIL1103,Intro to Ethics
+Humanistic and Artistic Ways of Knowing,Idaho State University,RUSS1101,Elementary Russian I
+Humanistic and Artistic Ways of Knowing,Idaho State University,RUSS1102,Elementary Russian II
+Humanistic and Artistic Ways of Knowing,Idaho State University,SHOS1101,Elementary Shoshoni I
+Humanistic and Artistic Ways of Knowing,Idaho State University,SHOS1102,Elementary Shoshoni II
+Humanistic and Artistic Ways of Knowing,Idaho State University,SPAN1101,Elem Spanish I
+Humanistic and Artistic Ways of Knowing,Idaho State University,SPAN1102,Elem Spanish II
+Humanistic and Artistic Ways of Knowing,Idaho State University,TGE1257,Applied Ethics in Technology
+Humanistic and Artistic Ways of Knowing,Idaho State University,THEA1101,Appreciation of Drama
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,ART100,Survey/Art
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,ENGL150,Intro/Literature
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,ENGL257,World Classics
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,ENGL258,International Literature
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,HUM101,Art/Hist Motion Picture
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,HUM150,Intro/Arts
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,MUS101,Survey/Music
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,MUS102,Music in America
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,MUS150,World Music
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,MUS151,History of Musical Theater
+Humanistic and Artistic Ways of Knowing,Lewis-Clark State College,THEA101,Survey/Theater
+Humanistic and Artistic Ways of Knowing,North Idaho College,AIST285,American Indian Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ART100,Survey of Art
+Humanistic and Artistic Ways of Knowing,North Idaho College,ART101,History of Western Art I
+Humanistic and Artistic Ways of Knowing,North Idaho College,ART102,History of Western Art II
+Humanistic and Artistic Ways of Knowing,North Idaho College,ASL101,Elementary American Sign Language I
+Humanistic and Artistic Ways of Knowing,North Idaho College,ASL102,Elementary American Sign Language II
+Humanistic and Artistic Ways of Knowing,North Idaho College,CINA126,Film & International Culture
+Humanistic and Artistic Ways of Knowing,North Idaho College,COMM220,Intro to Intercultural Communication
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL175,Introduction to Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL257,Literature of Western Civilization
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL258,Literature of Western Civilization
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL267,Survey of English Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL268,Survey of English Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL271,Introduction to Shakespeare
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL277,Survey of American Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL278,Survey of American Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,ENGL285,American Indian Literature
+Humanistic and Artistic Ways of Knowing,North Idaho College,FLAN207,Contemporary World Cultures
+Humanistic and Artistic Ways of Knowing,North Idaho College,GERM101,Elementary German I
+Humanistic and Artistic Ways of Knowing,North Idaho College,GERM102,Elementary German II
+Humanistic and Artistic Ways of Knowing,North Idaho College,HUMS101,Montage: Introduction to the Humanities
+Humanistic and Artistic Ways of Knowing,North Idaho College,HUMS126,Film and International Culture
+Humanistic and Artistic Ways of Knowing,North Idaho College,HUMS200,Interdisciplinary Seminar
+Humanistic and Artistic Ways of Knowing,North Idaho College,INTR200,Interdisciplinary Seminar
+Humanistic and Artistic Ways of Knowing,North Idaho College,MUSH101,Survey of Music
+Humanistic and Artistic Ways of Knowing,North Idaho College,MUSH127,Survey of American Popular Music Since 1900
+Humanistic and Artistic Ways of Knowing,North Idaho College,MUSH163,Survey of World Music
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL101,Introduction to Philosophy
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL103,Ethics
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL111,World Religions
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL201,Logic and Critical Thinking
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL205,Political and Social Philosophy
+Humanistic and Artistic Ways of Knowing,North Idaho College,PHIL220,Asian Philosophy
+Humanistic and Artistic Ways of Knowing,North Idaho College,SPAN101,Elementary Spanish I
+Humanistic and Artistic Ways of Knowing,North Idaho College,THEA101,Introduction to the Theatre
+Humanistic and Artistic Ways of Knowing,University of Idaho,AMST301,Studies in American Culture
+Humanistic and Artistic Ways of Knowing,University of Idaho,ARCH151,Intro to Built Environment
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART100,World Art and Culture
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART205,Visual Culture
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART213,History/Theory Modern Design I
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART302,Modern Art & Theory
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART382,History of Photography
+Humanistic and Artistic Ways of Knowing,University of Idaho,ART407,New Media
+Humanistic and Artistic Ways of Knowing,University of Idaho,DAN100,Dance in Society
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL175,Introduction/Literary Genres
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL221,History of Film 1895-1945
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL222,History of Film 1945-Present
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL257,Lit of Western Civilization
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL258,Lit of Western Civilization
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL322,Environmental Lit and Culture
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL341,Survey of British Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL342,Survey of British Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL343,Survey of American Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL344,Survey of American Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL345,Shakespeare
+Humanistic and Artistic Ways of Knowing,University of Idaho,ENGL375,The Bible as Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN210,Intro to Classic Mythology
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN313,French/Francophone Lit in Tran
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN324,Topics in Germ Lit In Transltn
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN331,Japanese Anime
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN391,Hispanic Film
+Humanistic and Artistic Ways of Knowing,University of Idaho,FLEN394,Latin Amer Lit in Translation
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST329,Idaho and the Pacific NW
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST340,"Modern India, 1757-1947"
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST350,Age of Enlightenment
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST357,Women/Pre-Modern European Hist
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST366,Modern European Culture
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST378,Hist Science Antiquity to 1700
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST379,Hist Science 1700 to Present
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST414,History and Film
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST442,Medieval Church
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST443,The Medieval State
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST445,Medv Engl Const/Legal
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST447,The Renaissance
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST448,The Reformation
+Humanistic and Artistic Ways of Knowing,University of Idaho,HIST485,Chinese Social/Cultural Hist
+Humanistic and Artistic Ways of Knowing,University of Idaho,IS370,African Cmnty Culture Music
+Humanistic and Artistic Ways of Knowing,University of Idaho,LAS391,Hispanic Film
+Humanistic and Artistic Ways of Knowing,University of Idaho,LAS394,Latin Amer Lit in Translation
+Humanistic and Artistic Ways of Knowing,University of Idaho,MUSH101,Survey of Music
+Humanistic and Artistic Ways of Knowing,University of Idaho,MUSH111,Intro Music Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,MUSH201,History of Rock & Roll
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL103,Ethics
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL200,Philosophy of Alcohol
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL201,Critical Thinking
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL208,Business Ethics
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL240,Belief and Reality
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL351,Philosophy of Science
+Humanistic and Artistic Ways of Knowing,University of Idaho,PHIL361,Professional Ethics
+Humanistic and Artistic Ways of Knowing,University of Idaho,RELS375,The Bible as Literature
+Humanistic and Artistic Ways of Knowing,University of Idaho,RELS442,Medieval Church
+Humanistic and Artistic Ways of Knowing,University of Idaho,RELS443,The Medieval State
+Humanistic and Artistic Ways of Knowing,University of Idaho,RELS447,The Renaissance
+Humanistic and Artistic Ways of Knowing,University of Idaho,RELS448,The Reformation
+Humanistic and Artistic Ways of Knowing,University of Idaho,THE101,Intro to the Theatre
+Humanistic and Artistic Ways of Knowing,University of Idaho,THE468,Theatre History I
+Humanistic and Artistic Ways of Knowing,University of Idaho,THE469,Theatre History II
+Humanistic and Artistic Ways of Knowing,University of Idaho,WMST201,Intro Women's/Gender Studies
+Social and Behavioral Ways of Knowing,Boise State University,ANTH102,Social-Cultural Anthropology
+Social and Behavioral Ways of Knowing,Boise State University,ANTH216,"Magic, Witchcraft and Religion"
+Social and Behavioral Ways of Knowing,Boise State University,CJ103,Intro to Law & Justice
+Social and Behavioral Ways of Knowing,Boise State University,ECON201,Principles of Macroeconomics
+Social and Behavioral Ways of Knowing,Boise State University,ECON202,Principles of Microeconomics
+Social and Behavioral Ways of Knowing,Boise State University,ED-CIFS201,Foundations of Education
+Social and Behavioral Ways of Knowing,Boise State University,ED-ESP223,Child Growth and Development
+Social and Behavioral Ways of Knowing,Boise State University,ED-LLC200,Cultural Diversity in School
+Social and Behavioral Ways of Knowing,Boise State University,ED-LLC203,Film and Contemporary Issues
+Social and Behavioral Ways of Knowing,Boise State University,EDTECH203,Foundations of Digital Culture
+Social and Behavioral Ways of Knowing,Boise State University,ENGL202,Intro to Tech Comm
+Social and Behavioral Ways of Knowing,Boise State University,GEOG100,Introduction to Geography
+Social and Behavioral Ways of Knowing,Boise State University,GEOG102,Cultural Geography
+Social and Behavioral Ways of Knowing,Boise State University,GLOBAL101,"Conflict, Cooperation & Change"
+Social and Behavioral Ways of Knowing,Boise State University,HIST111,United States History
+Social and Behavioral Ways of Knowing,Boise State University,HIST112,United States History
+Social and Behavioral Ways of Knowing,Boise State University,HIST121,History of Asia
+Social and Behavioral Ways of Knowing,Boise State University,HLTHST102,Environmental Health
+Social and Behavioral Ways of Knowing,Boise State University,INTBUS220,Go Global: You & World Economy
+Social and Behavioral Ways of Knowing,Boise State University,KINES140,Personal Health
+Social and Behavioral Ways of Knowing,Boise State University,KINES180,Introduction to Coaching
+Social and Behavioral Ways of Knowing,Boise State University,LING205,Language in Human Life
+Social and Behavioral Ways of Knowing,Boise State University,POLS101,American National Government
+Social and Behavioral Ways of Knowing,Boise State University,POLS201,Current Events in Am Politics
+Social and Behavioral Ways of Knowing,Boise State University,POLS202,Current Events In Global Polit
+Social and Behavioral Ways of Knowing,Boise State University,POLS203,Political Science in Popular M
+Social and Behavioral Ways of Knowing,Boise State University,PSYC101,General Psychology
+Social and Behavioral Ways of Knowing,Boise State University,SOC101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,Boise State University,SOC102,Social Problems
+Social and Behavioral Ways of Knowing,Boise State University,SOC230,Intro to Ethnic Studies
+Social and Behavioral Ways of Knowing,Boise State University,SOCWRK101,Introduction to Social Welfare
+Social and Behavioral Ways of Knowing,Boise State University,SPS101,"Public Service, Civic, Communi"
+Social and Behavioral Ways of Knowing,Boise State University,STEM-ED210,Knowing and Learning
+Social and Behavioral Ways of Knowing,Boise State University,URBAN101,Cities and Society
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,CRJ103,Introduction to Law and Justice
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,ECO201,Principles of Macroeconomics
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,ECO202,Principles of Microeconomics
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,HIS101,Foundations of Europe
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,HIS102,Modern Europe
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,HIS111,U.S. History 1
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,HIS112,U.S. History 2
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,POL101,Introduction to American Government
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,POL102,Introduction to Political Science
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,PSY101,Introduction to Psychology
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,SOC101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,College of Eastern Idaho,SOC102,Social Problems
+Social and Behavioral Ways of Knowing,College of Southern Idaho,ANTH101,Physical Anthropology
+Social and Behavioral Ways of Knowing,College of Southern Idaho,ANTH102,Cultural Anthropology
+Social and Behavioral Ways of Knowing,College of Southern Idaho,CRIJ103,Introduction to Law & Justice
+Social and Behavioral Ways of Knowing,College of Southern Idaho,ECON201,Principles of Macroeconomics
+Social and Behavioral Ways of Knowing,College of Southern Idaho,ECON202,Principles of Microeconomics
+Social and Behavioral Ways of Knowing,College of Southern Idaho,EDUC204,Families Communities & Culture
+Social and Behavioral Ways of Knowing,College of Southern Idaho,GEOG102,Cultural Geography
+Social and Behavioral Ways of Knowing,College of Southern Idaho,GEOG200,World Regional Geography
+Social and Behavioral Ways of Knowing,College of Southern Idaho,HIST101,Western Civilization 1
+Social and Behavioral Ways of Knowing,College of Southern Idaho,HIST102,Western Civilization 2
+Social and Behavioral Ways of Knowing,College of Southern Idaho,HIST111,US History 1
+Social and Behavioral Ways of Knowing,College of Southern Idaho,HIST112,US History 2
+Social and Behavioral Ways of Knowing,College of Southern Idaho,POLS101,American National Government
+Social and Behavioral Ways of Knowing,College of Southern Idaho,POLS102,Introduction to Political Science
+Social and Behavioral Ways of Knowing,College of Southern Idaho,POLS221,Intro to International Relations
+Social and Behavioral Ways of Knowing,College of Southern Idaho,PSYC101,General Psychology
+Social and Behavioral Ways of Knowing,College of Southern Idaho,SOCY101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,College of Southern Idaho,SOCY105,Human Relations
+Social and Behavioral Ways of Knowing,College of Western Idaho,ANTH101,Physical Anthropology
+Social and Behavioral Ways of Knowing,College of Western Idaho,ANTH102,Cultural Anthropology
+Social and Behavioral Ways of Knowing,College of Western Idaho,CRIJ103,Introduction to Law and Justice
+Social and Behavioral Ways of Knowing,College of Western Idaho,ECON201,Principles of Macroeconomics
+Social and Behavioral Ways of Knowing,College of Western Idaho,EDUC120,Foundations of Education
+Social and Behavioral Ways of Knowing,College of Western Idaho,EDUC201,Foundations of Education
+Social and Behavioral Ways of Knowing,College of Western Idaho,EXHS155,Health and Wellness
+Social and Behavioral Ways of Knowing,College of Western Idaho,GEOG102,Cultural Geography
+Social and Behavioral Ways of Knowing,College of Western Idaho,GEOG200,World Regional Geography
+Social and Behavioral Ways of Knowing,College of Western Idaho,HIST111,American History 1
+Social and Behavioral Ways of Knowing,College of Western Idaho,HIST112,American History 2
+Social and Behavioral Ways of Knowing,College of Western Idaho,HLTH155,Health and Wellness
+Social and Behavioral Ways of Knowing,College of Western Idaho,PHIL111,World Religions
+Social and Behavioral Ways of Knowing,College of Western Idaho,POLS100,DO NOT USE
+Social and Behavioral Ways of Knowing,College of Western Idaho,POLS101,American National Government
+Social and Behavioral Ways of Knowing,College of Western Idaho,POLS102,Introduction to Political Science
+Social and Behavioral Ways of Knowing,College of Western Idaho,PSYC101,General Psychology
+Social and Behavioral Ways of Knowing,College of Western Idaho,PSYC140,Relations for Career & Personal Success
+Social and Behavioral Ways of Knowing,College of Western Idaho,PSYC250,Research Methods in the Social Sciences
+Social and Behavioral Ways of Knowing,College of Western Idaho,SCIE102,Ethics in Science
+Social and Behavioral Ways of Knowing,College of Western Idaho,SOCY101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,College of Western Idaho,SOCY102,Social Problems
+Social and Behavioral Ways of Knowing,College of Western Idaho,SOCY120,Global Issues
+Social and Behavioral Ways of Knowing,College of Western Idaho,SOCY220,Sociology of Deviance
+Social and Behavioral Ways of Knowing,Idaho State University,ANTH1100,General Anthropology
+Social and Behavioral Ways of Knowing,Idaho State University,ECON1100,Economic Issues
+Social and Behavioral Ways of Knowing,Idaho State University,ECON2201,Prin of Macroeconomics
+Social and Behavioral Ways of Knowing,Idaho State University,ECON2202,Principles of Microeconomics
+Social and Behavioral Ways of Knowing,Idaho State University,EDUC1110,Education in the US
+Social and Behavioral Ways of Knowing,Idaho State University,HIST1101,Foundation of Europe
+Social and Behavioral Ways of Knowing,Idaho State University,HIST1102,Modern Europe
+Social and Behavioral Ways of Knowing,Idaho State University,HIST1111,U S History I
+Social and Behavioral Ways of Knowing,Idaho State University,HIST1112,U.S. History 1865 to Present
+Social and Behavioral Ways of Knowing,Idaho State University,IS2203,Intro Internatl Organizations
+Social and Behavioral Ways of Knowing,Idaho State University,POLS1101,American National Government
+Social and Behavioral Ways of Knowing,Idaho State University,PSYC1101,Intro to Gen Psychology
+Social and Behavioral Ways of Knowing,Idaho State University,SOC1101,Intro to Sociology
+Social and Behavioral Ways of Knowing,Idaho State University,SOC1102,Social Problems
+Social and Behavioral Ways of Knowing,Idaho State University,TGE1150,Social Science in Workplace
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,ANTH102,Cultural Anthropology
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,ANTH120,World Prehistory
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,ANTH170,Intro/Native Amer Studies
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,ECON201,Prin/Theo of Macroecon
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,ECON202,Prin/Theo of Microecon
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,GEOG102,Intro to Geography
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HIST101,History/Civilization
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HIST102,History/Civilization
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HIST111,US History to 1865
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HIST112,US History since 1865
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HRPT/SS184,Diversity in Organizations
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,HRPT/SS185,Human Relations in Organizations
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,POLS101,Amer National Government
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,POLS285,Comparative Government
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,PSYC101,Intro/Psychology
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,PSYC205,Developmental Psychology
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,SOC101,Intro/Sociology
+Social and Behavioral Ways of Knowing,Lewis-Clark State College,SOC102,Current Social Problems
+Social and Behavioral Ways of Knowing,North Idaho College,AIST101,American Indian Studies
+Social and Behavioral Ways of Knowing,North Idaho College,ANTH100,Introduction to Anthropology
+Social and Behavioral Ways of Knowing,North Idaho College,CHD134,Infancy Through Middle Childhood
+Social and Behavioral Ways of Knowing,North Idaho College,COMJ140,Mass Media in a Free Society
+Social and Behavioral Ways of Knowing,North Idaho College,COMM233,Interpersonal Communication
+Social and Behavioral Ways of Knowing,North Idaho College,ECON201,Principles of Economics (Macro)
+Social and Behavioral Ways of Knowing,North Idaho College,ECON202,Principles of Economics (Micro)
+Social and Behavioral Ways of Knowing,North Idaho College,HIST101,History of Civilization to 1500
+Social and Behavioral Ways of Knowing,North Idaho College,HIST102,History of Civilization Since 1500
+Social and Behavioral Ways of Knowing,North Idaho College,HIST103,History of Civilization 20th Century
+Social and Behavioral Ways of Knowing,North Idaho College,HIST111,U.S. History to 1876
+Social and Behavioral Ways of Knowing,North Idaho College,HIST112,U.S. History After 1876
+Social and Behavioral Ways of Knowing,North Idaho College,HIST211,History of the Americas I: First Peoples and Colonial Period
+Social and Behavioral Ways of Knowing,North Idaho College,HIST212,History of the Americas II: Since Independence
+Social and Behavioral Ways of Knowing,North Idaho College,POLS101,American National Government
+Social and Behavioral Ways of Knowing,North Idaho College,POLS237,International Politics and Problems
+Social and Behavioral Ways of Knowing,North Idaho College,PSYC101,Introduction to Psychology
+Social and Behavioral Ways of Knowing,North Idaho College,SOC101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,North Idaho College,SOC102,Social Problems
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH100,Introduction to Anthropology
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH220,Peoples of the World
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH261,Language And Culture
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH301,Intro Diversity/Stratification
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH329,North American Indians
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH350,"Food, Culture, and Society"
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH427,Racial/Ethnic Relations
+Social and Behavioral Ways of Knowing,University of Idaho,ANTH462,Human Issues/Internt'l Develop
+Social and Behavioral Ways of Knowing,University of Idaho,COMM233,Interpersonal Communication
+Social and Behavioral Ways of Knowing,University of Idaho,COMM335,Intercultural Communication
+Social and Behavioral Ways of Knowing,University of Idaho,COMM410,Conflict Management
+Social and Behavioral Ways of Knowing,University of Idaho,ECON201,Principles of Macroeconomics
+Social and Behavioral Ways of Knowing,University of Idaho,ECON202,Principles of Microeconomics
+Social and Behavioral Ways of Knowing,University of Idaho,ECON272,Foundatns of Economic Analysis
+Social and Behavioral Ways of Knowing,University of Idaho,EDCI301,"Lrng, Dvlpmnt, & Assessment"
+Social and Behavioral Ways of Knowing,University of Idaho,FLEN270,Intro to Greek and Roman Civ
+Social and Behavioral Ways of Knowing,University of Idaho,FLEN307,Institutions of the EU
+Social and Behavioral Ways of Knowing,University of Idaho,FLEN308,European Immigrtn/Integrtn
+Social and Behavioral Ways of Knowing,University of Idaho,FOR235,Society & Natural Res
+Social and Behavioral Ways of Knowing,University of Idaho,GEOG165,Human Geography
+Social and Behavioral Ways of Knowing,University of Idaho,GEOG200,World Regional Geography
+Social and Behavioral Ways of Knowing,University of Idaho,GEOG365,Political Geography
+Social and Behavioral Ways of Knowing,University of Idaho,HIST101,History of Civilization
+Social and Behavioral Ways of Knowing,University of Idaho,HIST102,History of Civilization
+Social and Behavioral Ways of Knowing,University of Idaho,HIST111,Intro to U.S. History
+Social and Behavioral Ways of Knowing,University of Idaho,HIST112,Intro to U S History
+Social and Behavioral Ways of Knowing,University of Idaho,HIST180,Intro to East Asian History
+Social and Behavioral Ways of Knowing,University of Idaho,HIST270,Intro to Greek and Roman Civ
+Social and Behavioral Ways of Knowing,University of Idaho,HIST315,Comparatv African-Am Cultures
+Social and Behavioral Ways of Knowing,University of Idaho,HIST380,Disease/Cult:Hist Wst Medicine
+Social and Behavioral Ways of Knowing,University of Idaho,HIST382,Hist Biology:Cnflcts/Controver
+Social and Behavioral Ways of Knowing,University of Idaho,HIST388,History of Mathematics
+Social and Behavioral Ways of Knowing,University of Idaho,HIST412,Rev No Amer/Early Natl Period
+Social and Behavioral Ways of Knowing,University of Idaho,HIST419,Topics in the American West
+Social and Behavioral Ways of Knowing,University of Idaho,HIST420,Hist Women Amer Soc
+Social and Behavioral Ways of Knowing,University of Idaho,HIST424,Amer Environmntl Hist
+Social and Behavioral Ways of Knowing,University of Idaho,HIST426,Red Earth White Lies
+Social and Behavioral Ways of Knowing,University of Idaho,HIST430,US Diplomatic History
+Social and Behavioral Ways of Knowing,University of Idaho,HIST431,Stolen Continents/Indian Story
+Social and Behavioral Ways of Knowing,University of Idaho,HIST438,Modern Mexico/The Americas
+Social and Behavioral Ways of Knowing,University of Idaho,HIST439,Modern Latin America
+Social and Behavioral Ways of Knowing,University of Idaho,HIST440,Soc Rev in Latin Amer
+Social and Behavioral Ways of Knowing,University of Idaho,HIST441,Slav & Freed in the Amer
+Social and Behavioral Ways of Knowing,University of Idaho,HIST449,Tudor-Stuart Britian 1485-1660
+Social and Behavioral Ways of Knowing,University of Idaho,HIST452,Europe in Age of Revolution
+Social and Behavioral Ways of Knowing,University of Idaho,HIST456,Anti-Semitism/Holocaust
+Social and Behavioral Ways of Knowing,University of Idaho,HIST457,Hist Of Middle East
+Social and Behavioral Ways of Knowing,University of Idaho,HIST460,Conspiracies & Sec Soc in Hist
+Social and Behavioral Ways of Knowing,University of Idaho,HIST466,East Europe Since 1774
+Social and Behavioral Ways of Knowing,University of Idaho,HIST467,Russia to 1894
+Social and Behavioral Ways of Knowing,University of Idaho,HIST468,Rus/Sov Un Since 1894
+Social and Behavioral Ways of Knowing,University of Idaho,HIST482,"Japan, 1600 - Present"
+Social and Behavioral Ways of Knowing,University of Idaho,HIST484,"Mod China, 1840's-Pres"
+Social and Behavioral Ways of Knowing,University of Idaho,IS325,The Contemporary Muslim World
+Social and Behavioral Ways of Knowing,University of Idaho,IS326,Africa Today
+Social and Behavioral Ways of Knowing,University of Idaho,IS350,Sports and Int'l Affairs
+Social and Behavioral Ways of Knowing,University of Idaho,LAS462,Human Issues/Internt'l Develop
+Social and Behavioral Ways of Knowing,University of Idaho,NRS235,Society and Natural Resources
+Social and Behavioral Ways of Knowing,University of Idaho,POLS101,Intro Political Sci/Amer Govt
+Social and Behavioral Ways of Knowing,University of Idaho,POLS205,Intro Comparative Pol
+Social and Behavioral Ways of Knowing,University of Idaho,POLS237,Intro International Politics
+Social and Behavioral Ways of Knowing,University of Idaho,POLS275,Am State & Local Govt
+Social and Behavioral Ways of Knowing,University of Idaho,POLS307,Institutions of the EU
+Social and Behavioral Ways of Knowing,University of Idaho,POLS331,Amer Polit Party&Elect
+Social and Behavioral Ways of Knowing,University of Idaho,POLS332,American Congress
+Social and Behavioral Ways of Knowing,University of Idaho,POLS333,American Political Culture
+Social and Behavioral Ways of Knowing,University of Idaho,POLS338,American Foreign Policy
+Social and Behavioral Ways of Knowing,University of Idaho,POLS381,European Politics
+Social and Behavioral Ways of Knowing,University of Idaho,PSYC101,Introduction to Psychology
+Social and Behavioral Ways of Knowing,University of Idaho,SOC101,Introduction to Sociology
+Social and Behavioral Ways of Knowing,University of Idaho,SOC130,Intro to Criminology
+Social and Behavioral Ways of Knowing,University of Idaho,SOC230,Social Problems
+Social and Behavioral Ways of Knowing,University of Idaho,SOC301,Intro Diversity/Stratification
+Social and Behavioral Ways of Knowing,University of Idaho,SOC336,Comp Criminal Justice Systems
+Social and Behavioral Ways of Knowing,University of Idaho,SOC340,Social Change & Globalization
+Social and Behavioral Ways of Knowing,University of Idaho,SOC343,"Power, Politics, and Society"
+Social and Behavioral Ways of Knowing,University of Idaho,SOC350,"Food, Culture, and Society"
+Social and Behavioral Ways of Knowing,University of Idaho,SOC423,Sociology of Prosperity
+Social and Behavioral Ways of Knowing,University of Idaho,SOC424,Sociology of Gender
+Social and Behavioral Ways of Knowing,University of Idaho,SOC427,Racial/Ethnic Relations
+Social and Behavioral Ways of Knowing,University of Idaho,SOC431,Personal/Social Issues-Aging
+Social and Behavioral Ways of Knowing,University of Idaho,SOC439,Inequalities/Justice System
+Social and Behavioral Ways of Knowing,University of Idaho,SOC450,Dynamics of Social Protest
