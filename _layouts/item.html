@@ -11,7 +11,7 @@ layout: default
 
     <div class="row">
         <div class="card">
-        <div id="test" class="card-body" ><h3>Sorry, item not found.</h3></div>
+        <div id="item" class="card-body" ><h3>Sorry, item not found.</h3></div>
         </div>
     </div>
 
@@ -30,6 +30,6 @@ var texts = {
 var queryString = window.location.search.substring(1).split("=")[1];
 var record = texts[queryString];
 var info = '<h3>' + record.title + '</h3> <p>Course: ' + record.course + '<br>' + record.notes + '<br>Replaces: ' + record.current + '<br>Saves: ' + record.cost + '</p> <p><a class="btn btn-primary" target="_blank" href="' + record.link + '" role="button">Get OER &raquo;</a></p>';
-var infobox = document.getElementById("test");
+var infobox = document.getElementById("item");
 infobox.innerHTML = info;
 </script>

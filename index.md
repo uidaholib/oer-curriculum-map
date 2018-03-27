@@ -5,9 +5,13 @@ title: Home
 
 <div class="jumbotron jumbotron-fluid" style="background:url('{{ "/assets/images/bookstack2.jpg" | relative_url }}') center/cover no-repeat;">
     <div class="container">
-        <h1 class="display-3">OER for Idaho GEM</h1>
-        <p>Connecting instructors with free and open teaching materials for GEM (General Education Matriculation) courses in Idaho: saving students money and lowering barriers to education.</p>
-        <p><a class="btn btn-primary btn-lg" href="{{ "/about/" | absolute_url }}" role="button">Learn more &raquo;</a></p>
+        <div class="row">
+            <div class="col-sm-8">
+                <h1 class="display-3">OER for Idaho GEM</h1>
+                <p>Connecting instructors with free and open teaching materials for General Education Matriculation (GEM) courses in Idaho, saving students money and lowering barriers to education.</p>
+                <p><a class="btn btn-primary btn-lg" href="{{ "/about/" | absolute_url }}" role="button">Learn more &raquo;</a></p>
+            </div>
+        </div>
     </div>
 </div>
 <div class="container">
