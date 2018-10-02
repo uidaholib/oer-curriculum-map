@@ -1,0 +1,43 @@
+number,title,gem-designation
+ENGL 101,Writing and Rhetoric I,Written Communications
+ENGL 102,Writing and Rhetoric II,Written Communications
+COMM 101,Fundamentals of Oral Communication,Oral Communications
+MATH 123,Math in Modern Society,Mathematical Ways of Knowing
+MATH 130,Finite Mathematics,Mathematical Ways of Knowing
+MATH 143,College Algebra,Mathematical Ways of Knowing
+MATH 147,College Algebra and Trigonometry,Mathematical Ways of Knowing
+MATH 160,Survey of Calculus,Mathematical Ways of Knowing
+MATH 170,Calculus I,Mathematical Ways of Knowing
+MATH 153,Statistical Methods,Mathematical Ways of Knowing
+ANTH 101,Biological Anthropology,Scientific Ways of Knowing
+BIOL 100,Concepts of Biology,Scientific Ways of Knowing
+BIOL 227,Human Anatomy and Physiology I,Scientific Ways of Knowing
+CHEM 100,Concepts of Chemistry,Scientific Ways of Knowing
+CHEM 102,Essentials of Organic and Biochemistry,Scientific Ways of Knowing
+CHEM 111,General Chemistry I,Scientific Ways of Knowing
+PHYS 111,General Physics I,Scientific Ways of Knowing
+PHYS 112,General Physics II,Scientific Ways of Knowing
+GEOL 101,Physical Geology,Scientific Ways of Knowing
+GEOL 102,Historical Geology,Scientific Ways of Knowing
+ANTH 102,Cultural Anthropology,Social and Behavioral Ways of Knowing
+ECON 201,Principles of Macroeconomics,Social and Behavioral Ways of Knowing
+ECON 202,Principles of Microeconomics,Social and Behavioral Ways of Knowing
+HIST 101,World History I,Social and Behavioral Ways of Knowing
+HIST 102,World History II,Social and Behavioral Ways of Knowing
+HIST 111,United States History I,Social and Behavioral Ways of Knowing
+HIST 112,United States History II,Social and Behavioral Ways of Knowing
+POLS 101,American National Government,Social and Behavioral Ways of Knowing
+PSYC 101,Introduction to Psychology,Social and Behavioral Ways of Knowing
+SOC 101,Introduction to Sociology,Social and Behavioral Ways of Knowing
+SOC 102,Social Problems,Social and Behavioral Ways of Knowing
+MUSI 100,Introduction to Music,Humanistic and Artistic Ways of Knowing 
+PHIL 101,Introduction to Philosophy,Humanistic and Artistic Ways of Knowing
+PHIL 103,Introduction to Ethics,Humanistic and Artistic Ways of Knowing
+ENGL 175,Literature and Ideas,Humanistic and Artistic Ways of Knowing
+ART 100, Introduction to Art,Humanistic and Artistic Ways of Knowing
+FREN 101,Elementary French I,Humanistic and Artistic Ways of Knowing
+FREN 102,Elementary French II,Humanistic and Artistic Ways of Knowing
+GERM 101,Elementary German I,Humanistic and Artistic Ways of Knowing
+GERM 102,Elementary German II,Humanistic and Artistic Ways of Knowing
+SPAN 101, Elementary Spanish I,Humanistic and Artistic Ways of Knowing
+SPAN 102,Elementary Spanish II,Humanistic and Artistic Ways of Knowing
